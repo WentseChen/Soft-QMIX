@@ -28,6 +28,7 @@ To run 10v10 map, you should change the `sc2_gen_terran.yaml` file
 capability_config:
     n_units: 10
     n_enemies: 10
+```
 
 ## Publication
 
