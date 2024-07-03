@@ -32,7 +32,6 @@ capability_config:
 ## Publication
 
 If you find this repository useful, please cite our [paper]([https://arxiv.org/abs/2207.05631](https://arxiv.org/pdf/2406.13930)):
-
 ```
 @article{chen2024soft,
   title={Soft-QMIX: Integrating Maximum Entropy For Monotonic Value Function Factorization},
