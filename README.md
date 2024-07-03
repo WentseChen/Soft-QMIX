@@ -28,6 +28,17 @@ To run 10v10 map, you should change the `sc2_gen_terran.yaml` file
 capability_config:
     n_units: 10
     n_enemies: 10
+
+## Publication
+
+If you find this repository useful, please cite our [paper]([https://arxiv.org/abs/2207.05631](https://arxiv.org/pdf/2406.13930)):
+```
+@article{chen2024soft,
+  title={Soft-QMIX: Integrating Maximum Entropy For Monotonic Value Function Factorization},
+  author={Chen, Wentse and Huang, Shiyu and Schneider, Jeff},
+  journal={arXiv preprint arXiv:2406.13930},
+  year={2024}
+}
 ```
 
 
